@@ -8,7 +8,7 @@ const Menu = () => {
           <div>
           <img src="/img/icons/logo.svg" alt="" />
           </div>
-          <div className='text-xs lg:text-2xl text-blue-dark font-bold'>OppLoans MyOffer</div>
+          <div className='text-xs lg:text-2xl text-blue-dark font-bold'>Opportunity-Loan</div>
         </div>
         <div>
           <Button text = "Get Start" />
